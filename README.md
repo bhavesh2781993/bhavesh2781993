@@ -1,5 +1,5 @@
 ### Hey everyone 👋,
-- 🔭 I am a passionate Software Engineer with keen interest in Java and related technologies.
+- 🔭 I am a Sr Software Engineer with keen interest in Java and related technologies.
 - 🌱 I am currently learning `Containerization` and `Orchestration`. 
 - 🤔 I am looking to collaborate / contribute on *Open Source* / *Commercial* projects.
 - 💬 Ask me about `Java / Spring / Security / Hibernate / Angular`.
