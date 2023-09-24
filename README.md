@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey everyone 👋,
+- 🔭 I am a passionate Software Engineer with keen interest in Java and related technologies.
+- 🌱 I am currently learning `Containerization` and `Orchestration`. 
+- 🤔 I am looking to collaborate / contribute on *Open Source* / *Commercial* projects.
+- 💬 Ask me about `Java / Spring / Security / Hibernate / Angular`.
+- 📫[Linkedin](https://www.linkedin.com/in/bhavesh-shah-6a0a827a/) | [Twitter](https://twitter.com/shah27Bhavesh)
+
 
 <!--
 **bhavesh2781993/bhavesh2781993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
